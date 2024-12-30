@@ -35,7 +35,7 @@ Fail2Ban Insatllation <br/>  <br/>
  <br />
 <br />
 Copy of Conf file to Local file<br/><br/>
-<img src="https://imgur.com/2Iwmlsb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/oFpQ6wD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Adding Settings to SSHD  <br/><br/>
@@ -43,7 +43,7 @@ Adding Settings to SSHD  <br/><br/>
 <br />
 <br />
 Fail2Ban Enable and Start<br/> <br/>
-<img src="https://imgur.com/GXkgMy7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/CHYo8OA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
